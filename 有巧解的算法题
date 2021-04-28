@@ -1,0 +1,4 @@
+#leetcode 796 旋转字符串
+A旋转后的结果B必包含在A+A里，若要提高效率可用KMP
+#leetcode 191 位1的个数
+num = num & (num - 1)可以将最后一个1变为0
